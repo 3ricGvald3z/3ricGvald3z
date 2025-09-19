@@ -6,7 +6,7 @@
 
 <h1 align="center">hi, i'm <a href="https://github.com/3ricGvald3z">Eric</a>!</h1>
 <p align="center">
-  <a href="https://wigle.net">  
+  <a href="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">  
 <img border="0" src="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">  
 </a>
 </p>
