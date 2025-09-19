@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/3ricGvald3z">
-    <img src="https://github.com/3ricGvald3z/3ricGvald3z/blob/main/cat-whiskers.jpeg" alt="Banner" width="50%" height="50%">
+    <img src="https://github.com/3ricGvald3z/3ricGvald3z/blob/main/cat-whiskers.jpeg" alt="Banner" width="50%">
   </a>
 </p>
 
